@@ -1,0 +1,16 @@
+# Miscellaneous
+__init__.py
+*.pyc
+*.sw[op]
+*~
+
+# Eclipse artifacts
+.project
+.pydevproject
+.settings/
+
+# FreeCAD user configuration files
+cookies
+*.cfg
+*.log
+
